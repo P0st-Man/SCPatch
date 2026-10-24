@@ -1,0 +1,1394 @@
+[
+  {
+    "file": "data/contracts/contract_001.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x1ce95ce5aebe5beb20d69c308cd0e21797873c38_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_002.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x783cf9c6754bf826f1727620b4baa19714fedf8d_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_003.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x2f549f7397eed2302f7ce1ba18177abbc974dd52.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_004.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x004a0ea16df8e38e9107461dffe34d6a7f9caab1_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_005.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x19cb2f6f5186bf10c96f76a677234b77d5bd13a8.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_006.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x84f6451efe944ba67bedb8e0cf996fa1feb4031d.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_007.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x00ad1ae81accb071bdf654633727e6ecda5672b3.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_008.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xa78b54123b7fd920cba3b95427b3515c94461099.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_009.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x00c8decc1ca373a99f1c2a341be50f03d35e03e7_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_010.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xdb4837c9d84315abcde80a865f15178f86db3966.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_011.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xc9ef94f7b7dd045cce2b0cab7ac3075d6b49f4b3.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_012.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xdfe639317f8e7653fd72abeac1900f94952152b2.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_013.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xe78cb5396729fe4326ce9cb84ccff243dbec29fa.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_014.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x514bc174df04a4b04ae2be81ee8c788c3796b06b_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_015.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xc211cc07246ab5bf84f5c3274f4a8197eb85eea7.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_016.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x208d70717b46b5466d86f6a6b443cc17ebab0894_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_017.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x1a08d7c9a84f339381618b2319ed9252956857b7.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_018.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x9a2e9235f7a7ac7b899e5f3208fbb13c6985171a.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_019.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x16d29707a5f507f9252ae5b7fc5e86399725c663.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_020.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x64ba926175bc69ba757ef53a6d5ef616889c9999.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_021.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xbf74cc2839b4b639062e37b6ea53f3ed7964132c.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_022.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x92bcbc2240d581a3fac5911cb4d807e7a79590d8.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_023.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x0ddc6021443855fbfe26fcdee4b36154f6b53817.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_024.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x1b43f7543164ead3dac0393aaebaaf3b35c459c2.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_025.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xf40b50f05c68779141632436b839566fea1db616.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_026.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x26788f0670bdf9594ba1a677a977e97eb68568db_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_027.sol",
+    "datasets": [
+      "scrawld",
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x8ace4caa39ce266f12372aff296631639da0ce22_ext.sol",
+      "data/raw/smartbugs-wild/contracts/0x8ace4caa39ce266f12372aff296631639da0ce22.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_028.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x62190802001819f42cb2eda7017d3c617af431c1.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_029.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xc446b5b0a696b6735bf95888a896253a1a5d25f5.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_030.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xf037507fddff4c71e90aeefa54bb8686772ad346.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_031.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x02b46985d243001b3de2ee0b68793016c9ca6843_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_032.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xc52f9eb08ea08a7172bc9ca17ed6e5043120d1bb.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_033.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x1a2dd52fd95c9e8c329b8da4598e3c1d834d2853.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_034.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0x89c1b3807d4c67df034fffb62f3509561218d30b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_035.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xf697f9423dd3ffad393552c8b70b630169ad41b5.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_036.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0xd2018bfaa266a9ec0a1a84b061640faa009def76.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_037.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/other/crypto_roulette.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_038.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x022de5f5d6df5624487d9c51b0d496f9d8721878_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_039.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xea06c9cb0d69058468387f283e9a3f61c53e3c21.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_040.sol",
+    "datasets": [
+      "scrawld",
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x4c60e311d8fba04e313f7e7b3dec61b3028726d1_ext.sol",
+      "data/raw/smartbugs-wild/contracts/0x4c60e311d8fba04e313f7e7b3dec61b3028726d1.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_041.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xd99bb99326cb7d9f10dcd1fd25fd7ce6c3b8ec46.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_042.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x6a976d88b497bb65e4715970fed2c1c468eaa7fc.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_043.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x0472e3ccb2a3601b39880fb1059b466aa6151662.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_044.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xd41d48be0a81690a785bf1df336163f7b78eadca.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_045.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x1dbe49b5020b97de4823012320ee6b80c9328bbb_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_046.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x044d614b76e547758b76f48178d62b322087e708.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_047.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x00ff9c740bac8cad80f1a3b1c4f20d7ea1c92637_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_048.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x0617fd39b66a2167d9f6d99f1c6ecf71daab24e8.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_049.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x13565d214f1e5b32e2ada98607cbfdf30cd5357a.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_050.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x180c288c2151200ad37d150308346b1be421d32c_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_051.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xe448c94856b36ffb701fb5a578452d32f52788ea.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_052.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x06c2452bcb4c1c1a046c520ffbad41fb8f48442b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_053.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x015a06a433353f8db634df4eddf0c109882a15ab.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_054.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x01bbef7b099128a2675d619567ab449ec9a04fe1_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_055.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x0082f8addb9c0d6cc27783d41198300b4cd2e19b_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_056.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xda8d52a4bcfe2c024fba8ea62dbb90e2b18bdb80.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_057.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xb7ed5a7fb4be122a82ec98aef0b377849f0b4c52.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_058.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0xb37f18af15bafb869a065b61fc83cfc44ed9cc27.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_059.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x8888882605528a4f2b6756bdf1788d040eaf478d.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_060.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x02242d41c54f261a85ac8e8efa7046a3dfd53113_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_061.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x3b0497ef0e84673dcc1ef53dd8eabf141e145958.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_062.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x035611f47a13f3603109152952f0034c674959ba_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_063.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xde9c0dbf058935d17583d4643896caf93198761a.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_064.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x6f1408e206d23d446e1580830f11f79c2e58d92b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_065.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xba6db65ce7a226a5fad3126302118cf8f5c50012.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_066.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x657a5dc7628f0f976eb443f9de0b358f468191d9.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_067.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x89e88661f0582f0f0a07b63d33ba8edd3e88e6e5.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_068.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x0111ac7e9425c891f935c4ce54cf16db7c14b7db_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_069.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x33720000b3b3bd4b631b76f85049306be257ddc7.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_070.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x26936b691450a838b6df4965b58f2c53a9139d29_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_071.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x160b34aa9e397e33b2d8dd712af2cf78e748985b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_072.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xfa2400c873bf5e7243c5a5c40675868c4b7145ea.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_073.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xbfc57b04d8d126ea17b19f53972c38d4395d3abb.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_074.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x12b470a5c9055d312e1af0259b65976dce608e5d_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_075.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x031e0c6a7c91df1bc171d33cccc6988fd2ddeb6f_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_076.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x88aaeca6ee155d5cd48c747571ddf31ab41ce681.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_077.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x4c4e2c7060f6bed1f095ee2cfc2236729b4de2e8.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_078.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x1b332629b45136a3614fafcd927c8ea31d7cd717_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_079.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x0188404de3811357ef0157f9b3aeeca7d32d3b68_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_080.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/other/name_registrar.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_081.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x5f6e7fb7fe92ea7822472bb0e8f1be60d6a4ea50.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_082.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x0dfb14c2db6c9824d3210ed7e2689e1a51a8e954_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_083.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xb32f6c232c7eeb2f563309a1a7ddcc2f86680070.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_084.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/access_control/rubixi.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_085.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0xb620cee6b52f96f3c6b253e6eea556aa2d214a99.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_086.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0x806a6bd219f162442d992bdc4ee6eba1f2c5a707.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_087.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x5bd7b9cd17cee4d2fae01d9695e83098cf409488_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_088.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xb222e54b336bf4834953eac0a5bd0c1aae2079e9.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_089.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x579afc9d2aab2fd0cbf55eddc35ce4667725f88e.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_090.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x132e2b67e91bf0294536b16d772e8dee099fc40c.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_091.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x38aefe9e8e0fc938475bfc6d7e52ae28d39febd8.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_092.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x1054bf40be3e021e26fa5f6d627fe395a3fd3f26.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_093.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x01d6208f95cf2292c350fc8bb1b1f29230352675_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_094.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0xb0510d68f210b7db66e8c7c814f22680f2b8d1d6.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_095.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x6b683581e66524639cb9444000a7c8b5e10a1a07.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_096.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x02c12964e74a0ebb4ecfa13c3717797dedd9ef6f_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_097.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xbd2bd1bd6396e69112d1f51cbaa57842cd1586c4.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_098.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x2b98b39d39914b3aad05dd06a46868507156400d.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_099.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xf58c5d4631484ada89a76efe5e6d44210fcda4ab.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_100.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x4f5c2dc89482eace09fe32c443b1893387406887.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_101.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x82d69c2f6d0ef836b26f02598782b5cdee2f887e.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_102.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x4f75836e2d0ff46513532d276e0475543b43d308.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_103.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x6692e3a26c0057c16bdfb6ea41bc72c5fcbbc04b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_104.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x029af1f2c753c458c1e7fa04428e78cbe2eb09a7_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_105.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/bad_randomness/etheraffle.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_106.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xf8d039575188d85b27b4250f3f81d270e10821a0.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_107.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xaa93338ef3b64a50dcfb2eba57a1eb4ad59d955b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_108.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xb36a7cd3f5d3e09045d765b661af575e3b5af24a.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_109.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x7e612763296bc00d53920c0a72d76878d7247ed9.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_110.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x01b1ccae68dc41d8a2a0f48e8f0d38b0c064ef43_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_111.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/other/open_address_lottery.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_112.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xf73957496aee62e20072179faae860772f4a8523.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_113.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x06779e2a75cc5b7ad2c14cf98d88cf2cfcfcc6f1_ext.sol",
+      "data/raw/smartbugs-wild/contracts/0x06779e2a75cc5b7ad2c14cf98d88cf2cfcfcc6f1.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_114.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x0a7073207bac23865e0e3b204615364b5a9d3783.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_115.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xeb31c53605b2294fa5476326641d4a78ef2394ab.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_116.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x5cc13962c19b40c4d46901641c16bea922e44f8b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_117.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xbf4a783ca0404fe3d6dd5b48dd9a39e03ddb829e.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_118.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x76fb3aaf5fc8c105d325a24430eec2b0c98994c7.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_119.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0x19cf8481ea15427a98ba3cdd6d9e14690011ab10.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_120.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x21c04ea21791cc35c17a0d33b083a8dcde04cc0b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_121.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x01cd3d9df5869ca7954745663bd6201c571e05cf_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_122.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x2dc8e886762ee490ec01269e48bf29075f59c0d4.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_123.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xbac8813bd946e5397abfd2237316115b727f587b.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_124.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x0248f089a622b74cebaa62573605af9a44966bf1_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_125.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/front_running/ERC20.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_126.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xa55e851322e8f272f1db1676ae19cb5711d0fb52.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_127.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x096839afb376a09f16966acf4ed133a44e100ed5.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_128.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x8da9ccf44fa08f651b71fa76f4ed41796b428f61.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_129.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x2ce1cb7f7b8aa04dc78cf1435192106bc4c394bf.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_130.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x02dd48ff449f57a4632c39068e0ca0f4325c3a8d_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_131.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x963617e1ad931f48c6efe423b616c0e0e8cb60b0.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_132.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x2c867dfcdc68006a66736194f46f280dcb3410a9.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_133.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x318487c58b6d669c08adc1047c9a0e4fd9e4f77d.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_134.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/denial_of_service/dos_address.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_135.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x0436d3110dee47f177bb5d9b7ea5ce5d712522e8_ext.sol",
+      "data/raw/smartbugs-wild/contracts/0x0436d3110dee47f177bb5d9b7ea5ce5d712522e8.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_136.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x033cd75f262503e43c1350f1beb7ec88e0dc9e19_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_137.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/UE/multiple/0x1786672e19168f99a0c78e9704e416589e3197d4_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_138.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xb6d3dad9dde4d21cae7e245c88a75fbf2efa18c4.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_139.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x0cb36c6da5575d486224a6b23b307b7e15782429.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_140.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x05af72594440cf75c0fdcbbd9993fc26f62c7afc_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_141.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x7219c159baa81da747b49553780ebab35c413710.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_142.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/unchecked_low_level_calls/0x7d09edb07d23acb532a82be3da5c17d9d85806b4.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_143.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x3127be52acba38beab6b4b3a406dc04e557c037c.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_144.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x11524a168d1b888df781a87a6b4511f199b543ad.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_145.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x3512594d19870dabac2e033f15fcc6d9abd606ba.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_146.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x8cc0d6ef2b1dec73f420a32ca44e613620f712cd.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_147.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x4fc550cd2312ed67cb3938378c90c2a76fae0142.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_148.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0xed66d63dd5b63874a5d4dc6a753236991e67324e.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_149.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/contract/0x8cce51969a93ee5235e5955b8e3d649db7f10b81_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_150.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x1bdf171d5cc20544bf6e1536329a3d8dc166a78e_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_151.sol",
+    "datasets": [
+      "smartbugs_curated"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-curated/dataset/arithmetic/overflow_single_tx.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_152.sol",
+    "datasets": [
+      "scrawld"
+    ],
+    "upstream_paths": [
+      "ScrawlD/classified_contracts_dos1/DOS/single/0x0174312e4aef436606ffdeb4d05d22fb68f36ba0_ext.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_153.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x1ab8991d086831556b5846760f527b0b0b4f4af5.sol"
+    ]
+  },
+  {
+    "file": "data/contracts/contract_154.sol",
+    "datasets": [
+      "smartbugs_wild"
+    ],
+    "upstream_paths": [
+      "data/raw/smartbugs-wild/contracts/0x15a322aaca55b30112b7f43b4c737e448cccc8ab.sol"
+    ]
+  }
+]
