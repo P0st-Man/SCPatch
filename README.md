@@ -20,24 +20,39 @@ python3 -m pip install \
   'rank-bm25>=0.2.2,<0.3' 'datasketch>=1.6,<2' 'faiss-cpu>=1.8,<2' 'tiktoken>=0.7,<1'
 ```
 
-Install Mythril in a separate compatible Python environment with `python -m pip install 'mythril==0.24.8'`. Set `MYTHRIL_BIN` to that environment's `myth` executable.
-
-For training, also install:
+Install Mythril in a separate Python 3.11 environment:
 
 ```bash
-python3 -m pip install 'torch>=2.6,<3' 'peft>=0.13,<1' 'accelerate>=1,<2' \
-  'bitsandbytes>=0.44,<1' 'wandb>=0.16,<1' 'datasets>=2.14,<5' 'tabulate>=0.9,<1'
+python3.11 -m venv .venv-mythril
+.venv-mythril/bin/python -m pip install 'mythril==0.24.8'
+export MYTHRIL_BIN="$PWD/.venv-mythril/bin/myth"
 ```
 
-```bash
-export OPENAI_BASE_URL=http://localhost:8000/v1
-export SERVED_MODEL=scpatch
-export MYTHRIL_BIN=/path/to/mythril-env/bin/myth
+## Evaluation
 
+Set the model service address and served model name:
+
+```bash
+export MODEL_BASE_URL=http://localhost:8000/v1
+export SERVED_MODEL=scpatch
+```
+
+Retrieval examples use this JSON format: `[{"code": "...", "fixed_code": "..."}]`.
+
+```bash
 python3 tools/build_retrieval.py \
   --documents /path/to/examples.json --output artifacts/retrieval
 RAG_INDEX=artifacts/retrieval RAG_TOKENIZER=/path/to/model/tokenizer \
   bash scripts/evaluate.sh
+```
+
+## Training
+
+Install the additional dependencies:
+
+```bash
+python3 -m pip install 'torch>=2.6,<3' 'peft>=0.13,<1' 'accelerate>=1,<2' \
+  'bitsandbytes>=0.44,<1' 'wandb>=0.16,<1' 'datasets>=2.14,<5' 'tabulate>=0.9,<1'
 ```
 
 ```bash
